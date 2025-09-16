@@ -34,7 +34,8 @@ Examples:
 ```bash
 cargo run -- -j journal.json add "Buy milk"
 cargo run -- -j journal.json list
-cargo run -- -j journal.json done 1 ```
+cargo run -- -j journal.json done 1
+```
 
 ### tasks.rs
 
